@@ -43,3 +43,13 @@ My biggest challenge while building this application was making a couple mistake
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+
+
+#App Brainstorming 
+
+My favorite applications are Tiktok, Discord, and Nebo Notes. My favorite features on tiktok is the live feauture because it consist of many ways for influencers to profit from going live on the app and profiting from it with their gifting system. I also love the playlist feature because it can help to organize your content. I also liked the landscape mode that they added. Even though it was a beta feature, I believe they should actually impelment it because sometimes you would like to watch landscape mode videos in full screen. I also love discord because it is a great app for networking and teamwork. For example discord can really be useful for group projects and you can create different channels for specific purposes. I also love the fact that it allows you to share you screen with others and have voice chats because sometimes its easier to verbally speak about something. I also enjoy the fact that there isnt really a limitation on the amount of files you can upload to there. The last app I will talk about is the Nebo Notes app. I recently got it for note taking while im in class and I am so impressed. My favorite feature is the lasso feauture because you can use it to select your note and place it in a differnt area. That feature can also turn your hand writing into regular text which is really cool. I also love the fact that if you hold your pen down while either creating shapes or drawing a line, the app will straighten it for you. This makes my notes look so neat and clear I love that app. 
+
+
+
+I had an app idea that would be called "Secret Santa". My thoughts were that the app would be like secret santa but in an app version. Lets say a group of friends wanted to have a secret santa amoung themselves. The app would be able to create a group and the organizer will be able to decide when to begin the assignments. When everyone has joined the group, the app will assign someone their secret santa. Everyone will be able to create a wish list and the app would give you suggestions on what to buy your secret santa and direct you to stores where the items can be found. It will be able to send you notifications to remind you about the secret santa date. The benefit is that this app will make planning a secret santa more easy and can help people that cant think of gift ideas figure out what to get. It will also prevent people from missing the due date. 
