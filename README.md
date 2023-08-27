@@ -17,6 +17,8 @@ The following required functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
+![Video Walkthrough](Kapture 2023-08-27 at 00.59.50.gif)
+
 <img src='Kapture 2023-08-27 at 00.59.50.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Kap 
