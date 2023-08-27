@@ -17,7 +17,7 @@ The following required functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='file:///private/var/folders/mj/9219d7dx5572s1lz9pc4x31c0000gn/T/a0c8f8af8afc90abf94db8fc945db463/Kapture%202023-08-27%20at%2000.59.50.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Kapture 2023-08-27 at 00.59.50.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Kap 
 
